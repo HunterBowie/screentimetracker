@@ -1,0 +1,16 @@
+{
+    "streaming": [
+        "netflix",
+        "crave",
+        "disney+",
+        "prime video"
+    ],
+    "gaming": [
+        "minecraft",
+        "mindustry",
+        "luck be a landlord"
+    ],
+    "youtube": [
+        "youtube"
+    ]
+}
